@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inmemory-spring-boot-activemq/inmemory-activemq-example.iml" filepath="$PROJECT_DIR$/inmemory-spring-boot-activemq/inmemory-activemq-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-JMS-ActiveMQ/spring-boot-activemq-example.iml" filepath="$PROJECT_DIR$/Spring-Boot-JMS-ActiveMQ/spring-boot-activemq-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_boot_activemq-main.iml" filepath="$PROJECT_DIR$/.idea/spring_boot_activemq-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standalone-spring-boot-activemq/standalone-activemq-example.iml" filepath="$PROJECT_DIR$/standalone-spring-boot-activemq/standalone-activemq-example.iml" />
+    </modules>
+  </component>
+</project>
